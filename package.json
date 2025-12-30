@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.24.0",
-  "dependencies": {
-    "@openai/codex": "^0.63.0"
+  "devDependencies": {
+    "@anthropic-ai/claude-code": "^2.0.76"
   }
 }
